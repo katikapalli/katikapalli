@@ -1,6 +1,6 @@
 # Hi, I'm Katikapalli Lokesh 👋  
 
-Welcome to my GitHub! I'm a research enthusiast with a strong foundation in **Computer Vision** and **Artificial Intelligence**. My passion lies in leveraging AI to solve real-world problems, with a current focus on enhancing **historical Indian language manuscripts** and advancing **AI applications in health care**.
+Welcome to my GitHub! I'm a research enthusiast with a strong foundation in **Computer Vision** and **Deep Learning**. My passion lies in leveraging AI to solve real-world problems, with a current focus on enhancing **historical Indian language manuscripts** and advancing **AI applications in health care**.
 
 
 
