@@ -8,11 +8,6 @@ Welcome to my GitHub! I'm a research enthusiast with a strong foundation in **Co
 I am a **Research Assistant** in the [Vision, Language, and Learning Group (VL2G)](https://vl2g.github.io) at the **Indian Institute of Technology Jodhpur**, working under the guidance of [Dr. Anand Mishra](https://anandmishra22.github.io/).
 
 
-## **Academic Background**
-I hold a **Master's degree in Computer Science** from the [Central University of Rajasthan](https://www.curaj.ac.in). During my academic journey, I collaborated on research projects focused on **deep learning methodologies**, mentored by:  
-- [Dr. Gaurav Meena](https://www.curaj.ac.in/faculty/gaurav-meena)  
-- [Dr. Krishna Kumar Mohbey](https://www.curaj.ac.in/faculty/krishna-kumar-mohbey)
-
 
 ## **Connect With Me**
 Feel free to reach out or explore my work through the following platforms:  
